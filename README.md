@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Yuvraj👋
 
-<!--
-**yuvraaz04/yuvraaz04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ MCA Student | Flutter Developer | ML Enthusiast | Data Analyst
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 📊 Aspiring Data Analyst skilled in Power BI, Tableau & Data Visualization
+* 📈 Interested in extracting insights from data and creating impactful dashboards
+* 🧠 Learning Machine Learning, Explainable AI & Data Analytics concepts
+* 📱 Flutter Developer (UI + Firebase) with clean design approach
+
+---
+
+## 🛠️ Tech Stack
+
+* 💻 Languages: Dart, Python, Java
+* 📱 Frameworks: Flutter, Flask
+* ☁️ Tools: Firebase, Git, GitHub, PowerBI, Tableau
+
+---
+
+## 📌 Projects
+
+* 📸 Face Recognition Attendance System
+* 📱 Student Management App
+* 🌐 Flask-based Web Apps
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/yuvrajsoni-a74919327/
+* Email: soniyuvraj771@gmail.com
