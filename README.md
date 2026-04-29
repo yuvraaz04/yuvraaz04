@@ -1,6 +1,6 @@
 # Hi, I'm Yuvraj👋
 
- MCA Student | Flutter Developer | ML Enthusiast | Data Analyst
+ MCA Student | Flutter Developer | Data Analyst
 
 ---
 
