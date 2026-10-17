@@ -23,8 +23,10 @@
 
 ## Projects
 
+* Crime Data Analysis
+* Churn Data Analysis
+* Student Performance Prediction
 * Face Recognition Attendance System
-* Student Management App
 * Flask-based Web Apps
 
 ---
