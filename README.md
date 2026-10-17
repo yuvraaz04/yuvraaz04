@@ -27,7 +27,7 @@
 * Churn Data Analysis
 * Student Performance Prediction
 * Face Recognition Attendance System
-* Flask-based Web Apps
+* Expense Tracker App
 
 ---
 
